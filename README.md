@@ -25,8 +25,8 @@ A lightweight Python desktop chat application that allows two computers to commu
 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/mesh-wifi-chat.git
-cd mesh-wifi-chat
+https://github.com/khanmaaz008/Mesh-Wifi.git
+cd Mesh-Wifi
 ```
 
 Install the required package:
@@ -40,7 +40,7 @@ pip install customtkinter
 Start the application:
 
 ```bash
-python main.py
+python Mesh-V2.py
 ```
 
 ## How to Use
@@ -69,7 +69,7 @@ The default communication port is:
 5000
 ```
 
-The port can be changed in `main.py`:
+The port can be changed in `Mesh-V2.py`:
 
 ```python
 PORT = 5000
@@ -78,9 +78,9 @@ PORT = 5000
 ## Project Structure
 
 ```text
-mesh-wifi-chat/
+Mesh-Wifi/
 │
-├── main.py
+├── Mesh-V2.py
 ├── README.md
 └── LICENSE
 ```
